@@ -85,4 +85,4 @@ Here is a screenshot of the project:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone <repository-url>](https://github.com/abressiddique/medium-clone.git
