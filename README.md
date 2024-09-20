@@ -77,7 +77,9 @@ The frontend is developed with React, Vite, and Tailwind CSS, providing a respon
 
 Here is a screenshot of the project:
 
-![Screenshot](demo/image.png)
+![Screenshot](screenshots/1.png)
+![Screenshot](screenshots/2.png)
+![Screenshot](screenshots/3.png)
 
 ## Getting Started
 
